@@ -1,0 +1,152 @@
+.owl-item img {
+height:auto
+}
+
+.header_lopline {
+background-color:#6d0404;
+padding:10px 0;
+width:100%;
+z-index:100;
+opacity:0;
+box-shadow:0 0 10px rgba(0,0,0,0.8)
+}
+
+.logo {
+float:left;
+padding:4px 0;
+height:auto
+}
+
+.logo_mobile,.logo_mobile_end {
+float:left
+}
+
+#menu_header {
+float:right;
+font-size:16px;
+padding:23px 2px
+}
+
+#menu_header ul {
+padding:0;
+margin:0;
+list-style-type:none
+}
+
+#menu_header ul li {
+display:inline-block;
+padding:0 6px;
+z-index:14
+}
+
+#menu_header a {
+color:#fff
+}
+
+#menu_header a:hover {
+color:#ada1a1;
+-webkit-transition:all .25s;
+-moz-transition:all .25s;
+-o-transition:all .25s
+}
+
+.menu_header_button {
+color:#fff;
+margin-left:-30px;
+margin-top:1px
+}
+
+.main_mnu_button {
+color:#fff;
+padding:5px 15px
+}
+
+.menu_header_button,.main_mnu_button,.powers_button,.phones_button,.skype_button,.mail_button,.logo_mobile,.logo_mobile_end {
+background-color:transparent;
+border:medium none;
+font-size:23px
+}
+
+.powers_button {
+color:#fff;
+font-size:29px;
+padding:10px
+}
+
+.phone_call_number {
+float:right;
+font-size:24px;
+padding:7px 0;
+z-index:11
+}
+
+.phone button {
+background-color:transparent;
+border:medium none;
+font-size:35px;
+margin-top:-5px
+}
+
+.phone_button {
+color:#fff;
+float:right
+}
+
+.main_mnu {
+background-color:#6d0404;
+border-radius:2px 2px 0 0;
+-webkit-border-radius:2px 2px 0 0;
+-o-border-radius:2px 2px 0 0 2px 0 0;
+-moz-border-radius:2px 2px 0 0;
+margin-top:60px;
+font-size:15px
+}
+
+.main_mnu a {
+display:block;
+padding:13px 11px;
+color:#fff;
+-webkit-transition:all .31s;
+-moz-transition:all .31s;
+-o-transition:all .31s
+}
+
+.main_mnu a:hover {
+background-color:#920f0f;
+color:#fff
+}
+
+.main_mnu ul {
+margin:0;
+list-style-type:none;
+float:left;
+text-transform:uppercase;
+z-index:12px
+}
+
+.main_mnu ul li {
+display:inline-block
+}
+
+.slide_item {
+margin-bottom:20px
+}
+
+.clider_container {
+margin-bottom:55px
+}
+
+.next_button {
+right:8px
+}
+
+.prev_button {
+left:8px
+}
+
+#content-text a,#our_partners a,#our_contacts a {
+color:#555;
+padding:0 10px
+}
+
+
