@@ -89,6 +89,11 @@ $(document).ready(function() {
 		//анимируем переход на расстояние - top за 1500 мс
 		$('body,html').animate({scrollTop: top}, 500);	
 	});
+
+	$("a").on("click", function() {
+	  $(".menu_list").toggle(); 
+	});
+
 	
 	//Аякс отправка форм
 	//Документация: http://api.jquery.com/jquery.ajax/
@@ -112,10 +117,15 @@ $(document).ready(function() {
 		$(".loader").delay(400).fadeOut("slow");
 	});
 
+	//Owl-Carousel 2
 	$('.owl-carousel').owlCarousel({
 		items:1,
 		margin:10,
-		autoHeight:true
+		autoHeight:true,
+		loop:true,
+		autoplay:true,
+		autoplayTimeout:5000,
+		autoplayHoverPause:false
 	});
 
 });
