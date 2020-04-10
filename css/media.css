@@ -1,1 +1,347 @@
-@media only screen and (max-width : 1200px){#menu_header{font-size:14px}.main_mnu{font-size:12px}.sell_right .button{margin-left:15px}.rt_block{margin-left:0}img.fr-dii.fr-fil,img.fr-dib{width:100%}img.fr-dii.fr-fir{width:100%;float:left}}@media only screen and (max-width : 992px){#menu_header ul li{display:block;padding:2px 0;display:inline-block;padding:0 6px;margin-top:12px}.main_mnu ul{display:none;position:absolute;background-color:#6d0404;width:100%;z-index:11}.main_mnu ul li{display:block}.img_alter{display:none;width:100%;z-index:11}.img_title{position:absolute;margin-left:30px}.banner{width:100%;display:block}.module_content{border:none}.rst_footer{width:50%}.sell_right .button{margin:10px auto;float:none;max-width:350px}.sell_descr{text-align:center}.rt_block{position:relative;display:block;margin:0;padding:0}.top_button{display:none}.copyrayt{display:none}.logo,.logo_end{display:none}.logo_mobile{padding:8px 0}.logo_mobile_end{margin-top:29px;margin-bottom:25px}.bottom_right{margin-bottom:0}.menu_header_button{margin-top:5px}.main_mnu ul{padding:0}.headhesive--stick .logomobile{width:38px;height:38px;padding:2px 0;transition:.5s}.headhesive--stick .sell_right .button{transition:.5s}.headhesive--stick #menu_header{padding:7px 2px;transition:.5s}.sell_right{padding:7px 5px}#menu_header{padding:14px 2px}}@media only screen and (max-width : 768px){#menu_header ul li{display:inline-block;padding:0 3px;margin-top:12px;font-size:12px}.phone_call_number{display:none;background-color:#3cb878;vertical-align:middle;margin-top:3px;padding:5px;width:37%}.phone_call_end,.skype_call_number,.mail_call_number{display:none;vertical-align:middle;color:#fff;padding:5px}.copyrayt{display:none}.menu_header_button{display:none}span#news-title{font-size:19px}div#dle-content{margin:0 35px;margin-bottom:60px;width:85%}}@media only screen and (max-width : 480px){#menu_header ul{display:none;float:left;position:absolute;background-color:#920f0f;padding:9px 5px;z-index:11;top:81px;width:100%;text-align:center}#menu_header ul li{margin-top:0}#menu_header a{margin-left:5px;font-size:11px}.sell_right .button{font-size:11px}.menu_header_button{display:block;font-size:21px}.headhesive--stick .logo_mobile{padding:5px 0}.headhesive--stick .sell_right{padding:4px 0}.headhesive--stick #menu_header{padding:3px 12px}ul.menu_list{right:0}.headhesive--stick #menu_header ul{top:51px}div#dle-content{margin:0 35px;margin-bottom:60px}}@media only screen and (max-width : 320px){#menu_header ul li{width:50%}#menu_header ul{padding:0}.about.company{width:177%}div#dle-content{margin:0 30px;margin-bottom:60px}}@media only screen and (min-width : 768px){.phone_call_number{display:inline-block!important}.phone_call_end,.skype_call_number,.mail_call_number{display:inline-block!important}}@media only screen and (min-width : 992px){#menu_header ul{display:inline-block!important}.main_mnu ul{display:block!important}.img_alter{display:inline-block!important}}
+@media only screen and (max-width : 1200px) {
+#menu_header {
+font-size:14px
+}
+
+.main_mnu {
+font-size:12px
+}
+
+.sell_right .button {
+margin-left:15px
+}
+
+.rt_block {
+margin-left:0
+}
+
+img.fr-dii.fr-fil,img.fr-dib {
+width:100%
+}
+
+img.fr-dii.fr-fir {
+width:100%;
+float:left
+}
+}
+
+@media only screen and (max-width : 992px) {
+#menu_header ul li {
+display:block;
+padding:2px 0;
+display:inline-block;
+padding:0 6px;
+margin-top:12px
+}
+
+.menu_header_content ul li {
+display:block;
+padding:2px 0;
+display:inline-block;
+padding:0 6px;
+margin-top:12px
+}
+
+.main_mnu ul {
+display:none;
+position:absolute;
+background-color:#6d0404;
+width:100%;
+z-index:11
+}
+
+.main_mnu ul li {
+display:block
+}
+
+.img_alter {
+display:none;
+width:100%;
+z-index:11
+}
+
+.img_title {
+position:absolute;
+margin-left:30px
+}
+
+.banner {
+width:100%;
+display:block
+}
+
+.module_content {
+border:none
+}
+
+.rst_footer {
+width:50%
+}
+
+.sell_right .button {
+margin:10px auto;
+float:none;
+max-width:350px
+}
+
+.sell_descr {
+text-align:center
+}
+
+.rt_block {
+position:relative;
+display:block;
+margin:0;
+padding:0
+}
+
+.top_button {
+display:none
+}
+
+.copyrayt {
+display:none
+}
+
+.logo,.logo_end {
+display:none
+}
+
+.logo_mobile {
+padding:8px 0
+}
+
+.logo_mobile_end {
+margin-top:29px;
+margin-bottom:25px
+}
+
+.bottom_right {
+margin-bottom:0
+}
+
+.menu_header_button {
+margin-top:5px
+}
+
+.main_mnu ul {
+padding:0
+}
+
+.headhesive--stick .logomobile {
+width:38px;
+height:38px;
+padding:2px 0;
+transition:.5s
+}
+
+.headhesive--stick .sell_right .button {
+transition:.5s
+}
+
+.headhesive--stick #menu_header {
+padding:7px 2px;
+transition:.5s
+}
+
+.headhesive--stick .menu_header_content {
+padding:7px 2px;
+transition:.5s
+}
+
+.sell_right {
+padding:7px 5px
+}
+
+#menu_header {
+padding:14px 2px
+}
+.menu_header_content {
+padding:14px 2px
+}
+}
+
+@media only screen and (max-width : 768px) {
+#menu_header ul li {
+display:inline-block;
+padding:0 3px;
+margin-top:12px;
+font-size:12px
+}
+
+.menu_header_content ul li {
+display:inline-block;
+padding:0 3px;
+margin-top:12px;
+font-size:12px
+}
+
+.phone_call_number {
+display:none;
+background-color:#3cb878;
+vertical-align:middle;
+margin-top:3px;
+padding:5px;
+width:37%
+}
+
+.phone_call_end,.skype_call_number,.mail_call_number {
+display:none;
+vertical-align:middle;
+color:#fff;
+padding:5px
+}
+
+.copyrayt {
+display:none
+}
+
+.menu_header_button {
+display:none
+}
+
+span#news-title {
+font-size:19px
+}
+
+div#dle-content {
+margin:0 35px;
+margin-bottom:60px;
+width:85%
+}
+}
+
+@media only screen and (max-width : 480px) {
+#menu_header ul {
+display:none;
+float:left;
+position:absolute;
+background-color:#920f0f;
+padding:9px 5px;
+z-index:11;
+top:81px;
+width:100%;
+text-align:center
+}
+
+.menu_header_content ul {
+float:left;
+padding:13px 2px;
+z-index:11;
+}
+
+#menu_header ul li {
+margin-top:0
+}
+
+.menu_header_content ul li {
+margin-top:0
+}
+
+#menu_header a {
+margin-left:5px;
+font-size:11px
+}
+
+.menu_header_content a {
+margin-left:5px;
+font-size:11px
+}
+
+.sell_right .button {
+font-size:11px
+}
+
+.menu_header_button {
+display:block;
+font-size:21px
+}
+
+.headhesive--stick .logo_mobile {
+padding:5px 0
+}
+
+.headhesive--stick .sell_right {
+padding:4px 0
+}
+
+.headhesive--stick #menu_header {
+padding:3px 12px
+}
+
+.headhesive--stick .menu_header_content {
+padding:3px 9px
+}
+
+ul.menu_list {
+right:0
+}
+
+.headhesive--stick #menu_header ul {
+top:51px
+}
+
+.headhesive--stick .menu_header_content ul {
+top:51px
+}
+
+div#dle-content {
+margin:0 35px;
+margin-bottom:60px
+}
+}
+
+@media only screen and (max-width : 320px) {
+#menu_header ul li {
+width:50%
+}
+
+.menu_header_content ul li {
+width:50%
+}
+
+#menu_header ul {
+padding:0
+}
+
+.menu_header_content ul {
+padding:0
+}
+
+.about.company {
+width:177%
+}
+
+div#dle-content {
+margin:0 30px;
+margin-bottom:60px
+}
+}
+
+@media only screen and (min-width : 768px) {
+.phone_call_number {
+display:inline-block!important
+}
+
+.phone_call_end,.skype_call_number,.mail_call_number {
+display:inline-block!important
+}
+}
+
+@media only screen and (min-width : 992px) {
+#menu_header ul {
+display:inline-block!important
+}
+
+.menu_header_content ul {
+display:inline-block!important
+}
+
+.main_mnu ul {
+display:block!important
+}
+
+.img_alter {
+display:inline-block!important
+}
+}
