@@ -661,3 +661,9 @@ color:#ada1a1;
 -o-transition:all .25s
 }
 
+.photo_content {
+	height: 300px;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}

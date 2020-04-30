@@ -23,6 +23,15 @@ img.fr-dii.fr-fir {
 width:100%;
 float:left
 }
+
+.photo_content img {
+margin-top: 28px;
+max-width: 91%;
+}
+
+.photo_content {
+margin-bottom: 30px;
+}
 }
 
 @media only screen and (max-width : 992px) {
@@ -32,6 +41,14 @@ padding:2px 0;
 display:inline-block;
 padding:0 6px;
 margin-top:12px
+}
+
+.photo_content img {
+max-width: 100%;
+}
+
+.cont_sell {
+margin-bottom: 80px;
 }
 
 .menu_header_content ul li {
@@ -222,6 +239,19 @@ z-index:11;
 top:81px;
 width:100%;
 text-align:center
+}
+
+.photo_content {
+height: auto;
+width: auto;
+}
+
+.cont_sell {
+margin-bottom: 45px;
+}
+
+.photo_content img {
+max-width: 100%;
 }
 
 .menu_header_content ul {
